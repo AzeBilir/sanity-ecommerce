@@ -1,36 +1,41 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-## And 
-[LİVE VERCEL APP HERE!](https://sanity-ecommerce-seven.vercel.app/)
+
+### Tecnologies I Used
+- Next.js (Obviovusly)
+- Sanity.io
+- React Hot Toast
+- React Icons
+- Context API
+- React Hooks
+
+## [LİVE VERCEL APP HERE!](https://sanity-ecommerce-seven.vercel.app/)
 ## Getting Started
 
 First, run the development server:
 
 ```bash
 npm run dev
+
+
 # or
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# SANITY ECOMMERCE
+## Homepage
+<img width="954" alt="1" src="https://user-images.githubusercontent.com/83697951/187810916-97b38a02-ccc5-4753-bd39-325bb57bdabf.png">
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<img width="932" alt="2" src="https://user-images.githubusercontent.com/83697951/187811134-d5226f2d-7a11-4079-9f9c-d215d4d515a0.png">
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<img width="945" alt="3" src="https://user-images.githubusercontent.com/83697951/187811167-21a758af-9a4a-4dbb-92b8-acfba2b0da41.png">
 
-## Learn More
+## Product Detail
+<img width="945" alt="4" src="https://user-images.githubusercontent.com/83697951/187811249-98d03769-f60c-4841-956d-fce5e0708669.png">
 
-To learn more about Next.js, take a look at the following resources:
+## You May Also Like This Section with react-hot-toast
+<img width="934" alt="5" src="https://user-images.githubusercontent.com/83697951/187811307-2fd5c5f5-fc40-4e75-a365-b55fa3e508aa.png">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# sanity-ecommerce
+## Cart
+<img width="935" alt="6" src="https://user-images.githubusercontent.com/83697951/187811338-f196f55e-1d95-4e7f-bb64-813c860c4eb0.png">
