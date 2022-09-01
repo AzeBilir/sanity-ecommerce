@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### Tecnologies I Used
+## Tecnologies I Used
 - Next.js (Obviovusly)
 - Sanity.io
 - React Hot Toast
@@ -23,7 +23,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# SANITY ECOMMERCE
 ## Homepage
 <img width="954" alt="1" src="https://user-images.githubusercontent.com/83697951/187810916-97b38a02-ccc5-4753-bd39-325bb57bdabf.png">
 
