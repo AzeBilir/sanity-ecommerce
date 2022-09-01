@@ -3,12 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Tecnologies I Used
 - Next.js (Obviovusly)
 - Sanity.io
-- React Hot Toast
-- React Icons
 - Context API
 - React Hooks
+- React Hot Toast
+- React Icons
 
-## [LİVE VERCEL APP HERE!](https://sanity-ecommerce-seven.vercel.app/)
+## [LİVE VERCEL WEBSITE!](https://sanity-ecommerce-seven.vercel.app/)
 ## Getting Started
 
 First, run the development server:
